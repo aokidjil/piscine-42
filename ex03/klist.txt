@@ -1,0 +1,5 @@
+Credentials cache: API:24411E94-B416-401A-AD00-F2ED534AFD81
+        Principal: dhamri@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Jul  6 10:49:22 2021  Jul  6 20:49:22 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
